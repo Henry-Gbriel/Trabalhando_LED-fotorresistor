@@ -16,15 +16,15 @@ Este projeto utiliza um Arduino UNO para acender um LED com base na quantidade d
 
 O circuito funciona como um **detector de luminosidade**. O LDR, junto com um resistor de 10kΩ, forma um divisor de tensão que envia uma leitura analógica para o Arduino (pino A0). Com base nesse valor, o LED (conectado ao pino digital 2) será ligado ou desligado.
 
-![Montagem do circuito com Arduino e LDR](LED_fotorresistor000.png)
+![Montagem do circuito com Arduino e LDR](https://github.com/user-attachments/assets/21afdb31-898c-4ae8-8c53-116338ef12f4)
 
 ## 🔌 Conexões
 
 | Componente   | Pino Arduino | Observação                                      |
 |--------------|--------------|-------------------------------------------------|
-| LDR          | A0           | Com resistor de 10kΩ para formar divisor de tensão |
+| LDR          | A0           | Com resistor de 1kΩ para formar divisor de tensão |
 | LED (ânodo)  | Digital 2    | Ligado diretamente ao pino digital              |
-| LED (cátodo) | GND          | Através de resistor de 220Ω                     |
+| LED (cátodo) | GND          | Através de resistor de 150Ω                     |
 | GND          | GND          | Comum para todos os componentes                 |
 | 5V           | 5V           | Alimenta o circuito                             |
 
