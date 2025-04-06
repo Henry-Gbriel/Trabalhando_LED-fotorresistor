@@ -16,7 +16,7 @@ link autodesk tinkercad: https://www.tinkercad.com/things/b1uBowQDzIs-led-como-f
 
 ## ⚙️ Esquema de Montagem
 
-O circuito funciona como um **detector de luminosidade**. O LDR, junto com um resistor de 10kΩ, forma um divisor de tensão que envia uma leitura analógica para o Arduino (pino A0). Com base nesse valor, o LED (conectado ao pino digital 2) será ligado ou desligado.
+O circuito funciona como um **detector de luminosidade**. O LDR, junto com um resistor de 1kΩ, forma um divisor de tensão que envia uma leitura analógica para o Arduino (pino A0). Com base nesse valor, o LED (conectado ao pino digital 2) será ligado ou desligado.
 
 ![Montagem do circuito com Arduino e LDR](https://github.com/user-attachments/assets/21afdb31-898c-4ae8-8c53-116338ef12f4)
 
