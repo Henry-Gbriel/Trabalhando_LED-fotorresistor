@@ -9,7 +9,7 @@ link autodesk tinkercad: https://www.tinkercad.com/things/b1uBowQDzIs-led-como-f
 - 1x Arduino UNO
 - 1x LED
 - 1x Fotoresistor (LDR)
-- 2x Resistores (220Ω e 10kΩ)
+- 2x Resistores (150Ω e 1kΩ)
 - 1x Protoboard
 - Jumpers
 - Cabo USB
