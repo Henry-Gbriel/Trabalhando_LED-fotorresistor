@@ -2,6 +2,8 @@
 
 Este projeto utiliza um Arduino UNO para acender um LED com base na quantidade de luz captada por um sensor LDR (fotoresistor). Quando o ambiente está **claro o suficiente**, o LED acende.
 
+link autodesk tinkercad: https://www.tinkercad.com/things/b1uBowQDzIs-led-como-fotorresistor
+
 ## 🛠️ Componentes Utilizados
 
 - 1x Arduino UNO
